@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👻, I'm Saon Sikder</h1>
+<h1 align="center">Hi 👻, I'm Moshiur Rahman</h1>
 <h3 align="center">Researching using AI&ML || Creating Software Development Contents || Designing Mobile Apps</h3>
 
 
 # ✅ What i'm doing now-a-days
 - 🍔 Learning Django and Flutter Advance Topics
-- 🍔 Current Research topics are **Rainfall Prediction - Lung Cancer - Liver Disease Prediction**
-- 🍔 I upload videos on [https://www.youtube.com/@BlackOsRa](https://www.youtube.com/@BlackOsRa)
+
 
 
 # 💻 Tech Stack:
@@ -26,36 +25,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br>
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00\&layout=compact)
--->
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Saon's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Saon00&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
 
-
-<!--  <p align="center">GitHub Commits Graph & Top Languages</p>
-<table>
-  <tr>
-    <td width="70%">
-      <a href="http://www.github.com/Saon00">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saon00&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-      </a>
-    </td>
-    <td width="30%">
-      <a href="https://github.com/Saon00" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saon00&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table> -->
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SaonSikder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/" /></a></p>
-
-<p><a href="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa"> <img align="left" src="https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619fb5686c9b9b5f5a35020e_gumroad-og.png" height="50" width="210" alt="https://blackosra.gumroad.com/l/AppStarterKitBlackOsRa" /></a></p>
 
 
 
